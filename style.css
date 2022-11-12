@@ -639,6 +639,9 @@ footer span a:hover{
     .navbar .menu li{
         display: block;
     }
+    .navbar .menu :hover{
+        color: #de1b1b;
+    }
     .navbar .menu li a{
         display: inline-block;
         margin: 20px 0;
