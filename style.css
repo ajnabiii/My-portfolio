@@ -349,7 +349,7 @@ section .title::after{
 .certificate .title::after,
 .teams .title::after{
     background: rgb(255, 255, 255);
-    content: "what i did";
+    content: "what i achieved";
 }
 .certificate .serv-content .card{
     width: calc(33% - 20px);
