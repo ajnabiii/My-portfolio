@@ -332,7 +332,7 @@ section .title::after{
 .btnn-proj:hover {
     background-color: #292929;
     color: #e7e7e7;
-    border: 2px solid #ffffff;
+    border: 2px solid rgb(160, 0, 32);
     border-radius: 12%;
 }
 
@@ -402,7 +402,7 @@ section .title::after{
   
 .cert-code {
     background-color: rgb(160, 0, 32);
-    color: black;
+    color: white;
     border: 2px solid #ffffff;
     border-radius: 12%;
     font-weight: 600;
@@ -411,7 +411,7 @@ section .title::after{
 .cert-code:hover {
     background-color: #292929;
     color: #e7e7e7;
-    border: 2px solid #ffffff;
+    border: 2px solid black;
     border-radius: 12%;
 }
 .cert-code.icoo{
