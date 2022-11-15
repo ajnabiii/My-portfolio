@@ -601,6 +601,34 @@ section .title::after{
     /* background: white; */
     
 }
+.resume {
+    background-color: rgb(160, 0, 32); /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 3px 1.5px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+.resume {
+    background-color: rgb(160, 0, 32);
+    color: rgb(255, 255, 255);
+    border: 1px solid #ffffff;
+    border-radius: 12%;
+    font-weight: 600;
+  }
+  
+.resume:hover {
+    background-color: #000000;
+    color: #e7e7e7;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 12%;
+}
 .contact .title::before,
 .teams .title::before{
     background: rgb(252, 252, 252);
